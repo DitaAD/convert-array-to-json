@@ -1,5 +1,3 @@
-//Dita Annisa Diningtyas | Kelas Front End | Hari 12 
-
 //fungsi untuk konversi array ke JSON string dan objek
 const convertArrayToJSON = (array) => {
     //mengubah array menjadi objek dengan indeks sebagai kunci
